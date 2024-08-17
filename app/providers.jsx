@@ -16,7 +16,11 @@ const Button = defineStyleConfig({
   },
   variants: {
     solid: {
-      bg: "gray.50",
+      bg: "#6176AE",
+      color: "white",
+      height: "50px",
+      width: "100%",
+      fontWeight: "bold",
     },
     outline: {
       bg: "transparent",
