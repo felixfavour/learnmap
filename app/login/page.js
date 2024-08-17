@@ -1,7 +1,5 @@
 "use client"
 import Link from "next/link"
-import { useEffect, useState } from "react"
-import { useRouter, useSearchParams } from "next/navigation"
 import AuthLayout from "@/components/layouts/AuthLayout"
 import { Button, FormControl, FormLabel, Input } from "@chakra-ui/react"
 
